@@ -1,4 +1,4 @@
-= CSI507 PYTHON PROGRAMMING
+= CSI507 Python programming
 :icons: font
 ifdef::env-github[]
 :tip-caption: :bulb:
