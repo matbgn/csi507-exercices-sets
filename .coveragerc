@@ -1,0 +1,5 @@
+[run]
+source= es/miauniversity/cs/python/exercises/
+
+[report]
+show_missing = True

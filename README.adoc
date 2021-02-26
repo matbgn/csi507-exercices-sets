@@ -1,0 +1,27 @@
+= CSI507 PYTHON PROGRAMMING
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== Exercise set 1:
+. Write a function which takes three numbers as a parameter and returns the largest number amongst them.
+. Write a function which calculates the total (expressed in MB) of the file sizes within a folder.
+. Write a simple function which converts a given number of days, hours and minutes given by the user into seconds.
+
+== Exercise set 2:
+1. Write a function which passes a string as a parameter and outputs an inverted version of the same string. Example: user inputs "abc" and the program changes it into "cba".
+2. Write a function which calculates the area of the following:  - a circle - a square - a rectangle - a triangle
+3. Write a function which has a character inputted and returns the ASCII code as output
+
+== Exercise set 3:
+1. Write a Python program to create an array of 5 integers and display the array items. Access individual element through indexes. - Print the array. - Then print the first three elements of the array.
+2. Write a Python program to print the order of the items in the array.
+3. Write a Python program to insert a new integer before the second element in an existing array.
+
+
+
